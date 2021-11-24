@@ -1,2 +1,2 @@
 # ZetariumFinance-ZETA
-Zetarium Finance Contract Source Code
+Zetarium Finance (ZETA) Contract Source Code
